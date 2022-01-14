@@ -1,0 +1,9 @@
+{
+  "name": "node-random-color-generator-2022-jan",
+  "version": "1.0.0",
+  "type": "module"
+  "main": "index.js",
+  "repository": "https://github.com/OshGin/node-random-color-generator-2022-jan.git",
+  "author": "Mathias Angerer",
+  "license": "MIT"
+}
